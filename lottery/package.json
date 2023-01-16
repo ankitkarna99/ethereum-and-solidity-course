@@ -1,0 +1,20 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.5",
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.8.9",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
